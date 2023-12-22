@@ -1,0 +1,5 @@
+DataSource/裁判文书网/2011年裁判文书数据.zip filter=lfs diff=lfs merge=lfs -text
+DataSource/裁判文书网/2012年裁判文书数据.zip filter=lfs diff=lfs merge=lfs -text
+.git/lfs/objects/08/d6/08d6aacd0126701bef240cd221d02897677cde0f82aab243b7c81fc7faa0eb71 filter=lfs diff=lfs merge=lfs -text
+.git/lfs/objects/d8/ae/d8aedeba761b83242a8bd3e94f1cabfb7e6283f64a5481ef12bca6d0c375e447 filter=lfs diff=lfs merge=lfs -text
+DataSource/裁判文书网/2010年裁判文书数据.zip filter=lfs diff=lfs merge=lfs -text
